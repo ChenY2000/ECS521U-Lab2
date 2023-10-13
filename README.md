@@ -74,7 +74,7 @@ Here we will use the window property devicePixelRatio that “returns the ratio 
 
 ## C. Add more Objects
 1. Go to the definition of `drawForeground` function.
-2. Add an [albatross image](https://github.com/expertofvision/ECS521-Interactive-Media-Design-and-Production-Labs-Work-FALL-2020-/blob/master/lab-02/37586.png) as follows:
+2. Add an [albatross image](https://github.com/ChenY2000/ECS521U-Lab2/blob/main/37586.png) as follows:
    ```js
    albatross_img = new Image();
    albatross_img.src = '../imgs/37586.png';
