@@ -12,8 +12,8 @@ This lab is about styling a canvas and simulating depth.
 Make sure to disable the browser cache to avoid issues with caching the JavaScript and CSS files. (e.g. In Google Chrome, open the development tools using  `Ctrl + Shift + i`, then click settings and tick "Disable cache (while DevTools is open)").
 
 ## A. Setup
-1. Open [html/index.html](https://github.com/ChenY2000/ECS521U-Lab2/main/html/index.html) file in browser (chrome/firefox/ie).
-2. Open [html/index.html](https://github.com/ChenY2000/ECS521U-Lab2/main/html/index.html) and [js/sky.js](https://github.com/ChenY2000/ECS521U-Lab2/main/js/sky.js) files in a text editor.
+1. Open [html/index.html](https://github.com/ChenY2000/ECS521U-Lab2/tree/main/html/index.html) file in browser (chrome/firefox/ie).
+2. Open [html/index.html](https://github.com/ChenY2000/ECS521U-Lab2/tree/main/html/index.html) and [js/sky.js](https://github.com/ChenY2000/ECS521U-Lab2/tree/main/js/sky.js) files in a text editor.
 3. Create a new folder `css` in the same directory as this `README.md` file.
 4. Create a new file `layout.css` using text editor inside the folder `css`.
 
