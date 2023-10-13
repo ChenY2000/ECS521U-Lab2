@@ -102,7 +102,7 @@ Here we will use the window property devicePixelRatio that “returns the ratio 
 
 
 ## Submission Instructions:
-### Deadline: 14/10/22 17:00
+### Deadline: 13/10/22 15:00
 The Submission Link is available under ASSESMENT INFORMATION/RESOURCES Section of Module Page.
 
 ### General Instruction:
